@@ -1,24 +1,7 @@
-# README
+# rails-on-docker-tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Docker を使って Rails の開発環境構築して、 `scaffold` を使って Toy アプリケーションを作る。
 
-Things you may want to cover:
+ref. https://docs.docker.com/compose/rails/
+ref. https://railstutorial.jp/chapters/toy_app?version=5.1#cha-a_toy_app
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
